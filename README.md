@@ -1,4 +1,6 @@
 # Advanced P5.js Platformer Engine
+![image](https://user-images.githubusercontent.com/93249038/233287672-77dfd954-6b8e-4b71-9609-099bee23f211.png)
+
 
 Set up your next platformer in just a little bit of code, with advanced physics, collisions, wall-climb, and so much more.  Navigate into the `docs` folder on how to start building your next amazing platformer!
 
